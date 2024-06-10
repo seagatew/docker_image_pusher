@@ -1,2 +1,1 @@
-linuxserver/docker-jackett
-alist
+xiaoyaliu/alist

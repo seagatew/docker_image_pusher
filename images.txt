@@ -1,1 +1,2 @@
-alist
+linuxserver/jackett
+alist-org/alist

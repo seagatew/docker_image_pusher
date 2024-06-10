@@ -1,2 +1,2 @@
-linuxserver/jackett
-alist-org/alist
+linuxserver/docker-jackett
+alist

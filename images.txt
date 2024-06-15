@@ -1,2 +1,2 @@
-p3terx/ariang
-p3terx/aria2-pro
+linuxserver/sonarr
+linuxserver/radarr

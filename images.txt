@@ -1,1 +1,2 @@
-linuxserver/bazarr
+xiaoyaliu/alist
+xhofe/alist
